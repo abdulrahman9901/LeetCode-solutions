@@ -1,0 +1,20 @@
+// https://leetcode.com/problems/remove-element
+
+class Solution {
+public:
+    int removeElement(vector<int>& nums, int val) {
+        size_t last = nums.size()-1 , k=0;
+        if(nums.size() < 2)
+            return nums.size();
+        for(size_t i=0 ;i<=last;++i){
+            if(nums[i] == val){
+                while(last && nums[last] == val )
+                    last--;
+                nums[i]=nums[last];
+                last--;
+            }
+            k++;
+        }
+        return k;
+    }
+};
