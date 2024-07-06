@@ -1,0 +1,5 @@
+# Ignore all directories except "accepted"
+*/Compile Error/
+*/Runtime Error/
+*/Time Limit Exceeded/
+*/Wrong Answer/
