@@ -9,3 +9,22 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
  - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
 
  Happy coding! 🚀
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0355-design-twitter) |
+## Linked List
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0355-design-twitter) |
+## Design
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0355-design-twitter) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0355-design-twitter) |
+<!---LeetCode Topics End-->
