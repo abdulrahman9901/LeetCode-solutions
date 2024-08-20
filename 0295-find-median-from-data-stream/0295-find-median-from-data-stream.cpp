@@ -15,7 +15,7 @@ public:
 
         maxHeap.pop();
 
-        while(maxHeap.size() < minHeap.size()){
+        if(maxHeap.size() < minHeap.size()){
             maxHeap.push(minHeap.top());
             minHeap.pop();
         }
