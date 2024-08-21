@@ -58,5 +58,10 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
