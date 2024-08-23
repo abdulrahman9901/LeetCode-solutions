@@ -49,6 +49,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0066-plus-one) |
+| [0200-number-of-islands](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -79,4 +80,20 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0338-counting-bits) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
