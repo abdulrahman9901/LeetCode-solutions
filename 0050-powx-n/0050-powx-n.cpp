@@ -1,6 +1,8 @@
 class Solution {
 public:
     double myPow(double x, int n) {
+        double res = x;
+        long i;
         if(n == 0 )
             return 1;
         if(x == 0)
@@ -10,19 +12,13 @@ public:
                 return 1;
             return -1;
         }
-        double res = x;
-        long i;
         for(i = 2 ; i < abs(n) ; i*=2){
             res*=res;
-        }
-        i/=2;
-        while(i < abs(n)){
+        } 
+        for(i/=2;i < abs(n);++i){
             res*=x;
-            i++;
         }
-        if(n > 0)
-            return res;
-        else 
-            return 1/res;
+        res = n > 0 ? res : 1/res;
+        return res;
     }
 };
