@@ -14,9 +14,7 @@ public:
         long i;
         for(i = 2 ; i < abs(n) ; i*=2){
             res*=res;
-            cout<<res<<" at i = "<<i<<endl;
         }
-        cout<<res<<" at i = "<<i<<endl;
         i/=2;
         while(i < abs(n)){
             res*=x;
