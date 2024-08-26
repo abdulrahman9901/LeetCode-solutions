@@ -60,6 +60,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0202-happy-number) |
@@ -125,4 +126,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0055-jump-game) |
+## String
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
