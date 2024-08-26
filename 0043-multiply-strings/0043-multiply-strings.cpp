@@ -19,5 +19,6 @@ public:
                 if (!(resStr.empty() && *it == 0)) { 
                     resStr += (*it + '0');
                 }
-        return resStr.empty() ? "0" : resStr;    }
+        return resStr.empty() ? "0" : resStr;    
+    }
 };
