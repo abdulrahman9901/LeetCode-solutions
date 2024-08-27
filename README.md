@@ -52,6 +52,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0053-maximum-subarray](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0066-plus-one) |
+| [0130-surrounded-regions](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -94,6 +95,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -101,6 +103,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -109,11 +112,13 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0695-max-area-of-island) |
