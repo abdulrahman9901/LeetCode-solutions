@@ -14,6 +14,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0133-clone-graph) |
 | [0202-happy-number](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0268-missing-number) |
@@ -52,6 +53,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0053-maximum-subarray](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0268-missing-number) |
@@ -122,6 +124,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
