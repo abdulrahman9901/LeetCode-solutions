@@ -50,6 +50,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0066-plus-one) |
@@ -65,6 +66,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0007-reverse-integer](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0202-happy-number) |
@@ -127,6 +129,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0200-number-of-islands) |
