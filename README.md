@@ -19,6 +19,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0202-happy-number](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0355-design-twitter](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0355-design-twitter) |
+| [2139-detect-squares](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/2139-detect-squares) |
 ## Linked List
 |  |
 | ------- |
@@ -28,6 +29,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0355-design-twitter) |
+| [2139-detect-squares](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/2139-detect-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -62,6 +64,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0417-pacific-atlantic-water-flow](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/1036-rotting-oranges) |
+| [2139-detect-squares](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/2139-detect-squares) |
 ## Math
 |  |
 | ------- |
@@ -167,4 +170,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0207-course-schedule](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0210-course-schedule-ii) |
+## Counting
+|  |
+| ------- |
+| [2139-detect-squares](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/2139-detect-squares) |
 <!---LeetCode Topics End-->
