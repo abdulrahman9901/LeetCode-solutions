@@ -47,6 +47,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0056-merge-intervals](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0435-non-overlapping-intervals](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
 ## Data Stream
 |  |
 | ------- |
@@ -66,6 +67,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0200-number-of-islands](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0695-max-area-of-island](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/1036-rotting-oranges) |
 | [2139-detect-squares](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/2139-detect-squares) |
@@ -104,6 +106,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0053-maximum-subarray](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0338-counting-bits) |
+| [0435-non-overlapping-intervals](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -161,6 +164,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
 ## String
 |  |
 | ------- |
