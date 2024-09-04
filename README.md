@@ -20,6 +20,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0202-happy-number](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0355-design-twitter](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0355-design-twitter) |
+| [0876-hand-of-straights](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0876-hand-of-straights) |
 | [2139-detect-squares](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/2139-detect-squares) |
 ## Linked List
 |  |
@@ -49,6 +50,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0268-missing-number](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0876-hand-of-straights](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0876-hand-of-straights) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Data Stream
 |  |
@@ -73,6 +75,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0417-pacific-atlantic-water-flow](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0695-max-area-of-island](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0695-max-area-of-island) |
+| [0876-hand-of-straights](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0876-hand-of-straights) |
 | [1036-rotting-oranges](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/1036-rotting-oranges) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2139-detect-squares](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/2139-detect-squares) |
@@ -174,6 +177,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0055-jump-game](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0876-hand-of-straights](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0876-hand-of-straights) |
 ## String
 |  |
 | ------- |
