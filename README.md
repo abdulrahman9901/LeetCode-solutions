@@ -57,6 +57,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0054-spiral-matrix) |
@@ -107,6 +108,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0338-counting-bits) |
@@ -167,6 +169,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
 ## String
