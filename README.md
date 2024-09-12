@@ -20,6 +20,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0202-happy-number](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0355-design-twitter](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0355-design-twitter) |
+| [0768-partition-labels](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0876-hand-of-straights) |
 | [2139-detect-squares](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/2139-detect-squares) |
 ## Linked List
@@ -43,6 +44,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0202-happy-number](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0768-partition-labels](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0768-partition-labels) |
 ## Sorting
 |  |
 | ------- |
@@ -178,6 +180,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0055-jump-game](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0768-partition-labels](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0876-hand-of-straights) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## String
@@ -185,6 +188,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0043-multiply-strings](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0043-multiply-strings) |
 | [0127-word-ladder](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0127-word-ladder) |
+| [0768-partition-labels](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0768-partition-labels) |
 ## Simulation
 |  |
 | ------- |
