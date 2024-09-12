@@ -120,6 +120,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0055-jump-game](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0678-valid-parenthesis-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -180,6 +181,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0055-jump-game](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0876-hand-of-straights) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -188,6 +190,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0043-multiply-strings](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0043-multiply-strings) |
 | [0127-word-ladder](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0127-word-ladder) |
+| [0678-valid-parenthesis-string](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0768-partition-labels) |
 ## Simulation
 |  |
@@ -207,4 +210,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1977-minimum-interval-to-include-each-query](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/1977-minimum-interval-to-include-each-query) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
