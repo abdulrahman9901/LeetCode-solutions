@@ -79,6 +79,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0695-max-area-of-island](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0695-max-area-of-island) |
 | [0876-hand-of-straights](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0876-hand-of-straights) |
 | [1036-rotting-oranges](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/1036-rotting-oranges) |
+| [1706-min-cost-to-connect-all-points](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2139-detect-squares](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/2139-detect-squares) |
@@ -152,6 +153,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0200-number-of-islands](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0695-max-area-of-island) |
+| [1706-min-cost-to-connect-all-points](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Matrix
 |  |
 | ------- |
@@ -170,6 +172,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0207-course-schedule](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0684-redundant-connection) |
+| [1706-min-cost-to-connect-all-points](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Recursion
 |  |
 | ------- |
@@ -214,4 +217,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0678-valid-parenthesis-string) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
