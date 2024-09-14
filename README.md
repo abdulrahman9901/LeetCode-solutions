@@ -38,6 +38,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0355-design-twitter) |
+| [0744-network-delay-time](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0744-network-delay-time) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Two Pointers
 |  |
@@ -133,6 +134,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0417-pacific-atlantic-water-flow](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0744-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -145,6 +147,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0417-pacific-atlantic-water-flow](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
@@ -172,6 +175,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0207-course-schedule](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0744-network-delay-time) |
 | [1706-min-cost-to-connect-all-points](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Recursion
 |  |
@@ -221,4 +225,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/1706-min-cost-to-connect-all-points) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
