@@ -92,6 +92,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0043-multiply-strings](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0268-missing-number) |
@@ -121,6 +122,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0045-jump-game-ii](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0062-unique-paths) |
 | [0338-counting-bits](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0678-valid-parenthesis-string) |
@@ -241,4 +243,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0332-reconstruct-itinerary) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
