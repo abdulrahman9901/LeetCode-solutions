@@ -127,6 +127,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0435-non-overlapping-intervals](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1250-longest-common-subsequence](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/1250-longest-common-subsequence) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -208,6 +209,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0127-word-ladder](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0127-word-ladder) |
 | [0678-valid-parenthesis-string](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0768-partition-labels) |
+| [1250-longest-common-subsequence](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/1250-longest-common-subsequence) |
 ## Simulation
 |  |
 | ------- |
