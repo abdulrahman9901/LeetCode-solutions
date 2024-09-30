@@ -39,6 +39,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0295-find-median-from-data-stream](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0355-design-twitter) |
 | [0744-network-delay-time](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Two Pointers
@@ -79,6 +80,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0417-pacific-atlantic-water-flow](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0695-max-area-of-island](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0794-swim-in-rising-water) |
 | [0876-hand-of-straights](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0876-hand-of-straights) |
 | [1036-rotting-oranges](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/1036-rotting-oranges) |
 | [1706-min-cost-to-connect-all-points](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/1706-min-cost-to-connect-all-points) |
@@ -101,6 +103,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0268-missing-number) |
+| [0794-swim-in-rising-water](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0794-swim-in-rising-water) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Bit Manipulation
 |  |
@@ -141,6 +144,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0684-redundant-connection](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
@@ -155,6 +159,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0684-redundant-connection](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1036-rotting-oranges](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/1036-rotting-oranges) |
 ## Union Find
@@ -164,6 +169,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0200-number-of-islands](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0794-swim-in-rising-water) |
 | [1706-min-cost-to-connect-all-points](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Matrix
 |  |
@@ -175,6 +181,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0200-number-of-islands](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/abdulrahman9901/LeetCode-solutions/tree/master/1036-rotting-oranges) |
 ## Graph
 |  |
